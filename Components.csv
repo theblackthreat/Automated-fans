@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U2",1," LCD 16 x 2 "
+"U3",1," H-bridge Motor Driver"
+"R1",1,"1 kΩ Resistor"
+"U4",1," Temperature Sensor [TMP36]"
+"P1",1,"26.2 , 3.3000000000000003  Power Supply"
+"MFan",1," DC Motor"
+"R3",1,"10 kΩ Resistor"
